@@ -3,10 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Home from './pages/Home'
-import Header from './components/header'
+import Header from './components/Header'
 import Contact from './pages/Contact'
-
-
 import Portfolio from './pages/Portfolio'
 import Service from './pages/Service'
 import About from './pages/About'
