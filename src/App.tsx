@@ -5,8 +5,10 @@ import './App.css'
 import Home from './pages/Home'
 import Header from './components/header'
 import Contact from './pages/Contact'
-import Portfolio from './pages/portfolio'
-import Service from './pages/service'
+
+
+import Portfolio from './pages/Portfolio'
+import Service from './pages/Service'
 import About from './pages/About'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Footer from './components/footer'
