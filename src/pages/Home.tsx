@@ -12,7 +12,7 @@ import Cart from "@/components/Cart";
 import { IoIosArrowForward } from "react-icons/io";
 import { IoIosArrowBack } from "react-icons/io";
 import Footer from "@/components/footer";
-import Hero from "@/components/hero";
+import Hero from "@/components/Hero";
 import { GoArrowLeft } from "react-icons/go";
 import { Link } from "react-router-dom";
 import LogoCarts from "@/components/LogoCarts";
