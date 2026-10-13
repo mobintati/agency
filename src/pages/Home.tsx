@@ -11,7 +11,7 @@ import Coment from "@/components/Coment";
 import Cart from "@/components/Cart";
 import { IoIosArrowForward } from "react-icons/io";
 import { IoIosArrowBack } from "react-icons/io";
-import Footer from "@/components/footer";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import { GoArrowLeft } from "react-icons/go";
 import { Link } from "react-router-dom";
