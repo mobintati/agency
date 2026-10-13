@@ -5,7 +5,7 @@ import CartVisits from '@/components/CartVisits';
 import Consulting from '@/components/Consulting';
 import ComponentRasha from '@/components/ComponentRasha';
 import ImageProject from "@/components/ImageProject";
-import Home from './home';
+import Home from './Home';
 import { Link } from 'react-router-dom';
 import { Button } from "@/components/ui/button"
 import { GoArrowLeft } from "react-icons/go";
